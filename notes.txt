@@ -5,3 +5,10 @@ A: git init
 
 2. You see your friend pushed code to their repository with the following commit message "done!". Is this a good commit message? why or why not?
 A: No, I think you need to explain what has changed inside the text file.
+
+
+
+
+
+
+Raghad Alfudhala
